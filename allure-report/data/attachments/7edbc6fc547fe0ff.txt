@@ -1,0 +1,4 @@
+Exception occurred while clicking on register :Error: locator.click: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('span:has-text("Register")')
+

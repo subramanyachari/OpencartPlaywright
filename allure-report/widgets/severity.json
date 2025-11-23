@@ -1,0 +1,1 @@
+[{"uid":"6a2c2c77527e6287","name":"validate account Registration","time":{"start":1763819305517,"stop":1763819332221,"duration":26704},"status":"passed","severity":"normal"},{"uid":"927fa10788e91ba0","name":"execute end-to-end test flow @end-to-end","time":{"start":1763882872072,"stop":1763882880264,"duration":8192},"status":"passed","severity":"normal"}]
